@@ -1,0 +1,31 @@
+.App{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
+
+th{
+  margin: 0%;
+  padding: 0%;
+  text-align: left;
+}
+
+.SearchInput{
+  text-align: center;
+}
+table{
+  text-align: cente}
+
+label{
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(188,70,252,1) 100%);
+    color: white;
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+    height: 3em;
+    border-radius: 10px;
+
+  }
+
